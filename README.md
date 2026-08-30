@@ -285,37 +285,7 @@ Application integrating multiple external APIs to provide location-based weather
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nickstoni&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9"/>
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickstoni&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nickstoni&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickstoni&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=60a5fa&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nickstoni&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
@@ -358,26 +328,6 @@ Application integrating multiple external APIs to provide location-based weather
 │                                             │
 └─────────────────────────────────────────────┘
 ```
-
-</div>
-
----
-
-# 💭 Development Philosophy
-
-<div align="center">
-
-### Understand the problem.
-
-### Build the solution.
-
-### Learn from the process.
-
-<br>
-
-> Good software isn't just about knowing frameworks or programming languages.
->
-> It's about understanding problems, breaking them into smaller pieces, choosing the right tools, and continuously improving the solution.
 
 </div>
 
