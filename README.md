@@ -401,10 +401,6 @@ I'm always interested in learning new technologies, building projects, solving i
 
 <br><br>
 
-### 👨‍💻 Code. Learn. Build. Repeat.
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:2563eb&section=footer"/>
 
 </div>
